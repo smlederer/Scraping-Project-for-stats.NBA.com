@@ -93,3 +93,6 @@ Houston and their ISOs (Z score normalized against all teams)
 
 ![image2](https://imgur.com/dtTtfgf.png)
 Points from the Roll vs. Points from the Pop
+
+![image3](https://github.com/smlederer/stats.NBA-Project/blob/master/images/ppp_over_time.PNG)
+Spot Up Points Per Possession over time (Max lookback 2012 season)
