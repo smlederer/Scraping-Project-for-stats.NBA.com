@@ -28,9 +28,7 @@ def ReadNBAJson(url,save_name):
     headers = ***See Below***
     response = requests.get(url, headers = headers).json()
     
-    #Save the file
-    with open(save_name,'w') as outfile:
-    json.dump(response,outfile)
+    return response
 ```
 
 **Defining Header**: found in "Request Headers" under Inspect->Network->Headers
