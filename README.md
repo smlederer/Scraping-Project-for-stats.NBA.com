@@ -1,4 +1,4 @@
-# stats.NBA-Project
+# Scraping-Project-for-stats.NBA.com
 As of 5/5/2019
 
 
